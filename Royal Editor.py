@@ -102,6 +102,8 @@ Under the Edit Menu:
 - ‘Paste Bullet’ pastes the copied/cut text
 - ‘Select All Bullets’ selects all bullet points in the text area
 - ‘Delete Bullet’ deletes the last bullet point 
+
+Developer's Telegram Id: @vijayragav71
 """
 
     mb.showinfo(title="All commands", message=commands)
