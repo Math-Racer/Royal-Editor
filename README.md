@@ -1,18 +1,19 @@
 # Royal-Editor
-This is a Beginner Project. It is a text editor built with python using tkinter module. The text editor is inspired the Royal Enfield Motorcyle. 
-
-Royal Text Editor is a text editor inspired \n by the Royal Enfield Bullet motorcycle. \nIt is designed to be a tribute to the history of \nRoyal Enfield, an Indian brand that has become the \nlargest manufacturer of motorcycles, beating Harley-Davidson.")
-
+This is a beginner-level programming project that involves building a GUI-based text editor using Python's tkinter module. The text editor is capable of editing .txt files. This text editor is a tribute to the history of Royal Enfield, an Indian brand that has become the largest manufacturer of motorcycles, beating Harley-Davidson.
 
 # Setup
-run the following in your command prompt 
+To install the necessary dependencies for Royal Text Editor, run the following command in your command prompt:
+`pip install pillow os`
+To launch the Royal Text Editor, simply run the royal_text_editor.py file using Python. The main window of the application will appear, allowing you to create or open a text file and start editing.
 
-`pip install pillow os `
+# Features
+- About Menu
+- Splash Screen
+- Cut, Copy, Paste
+- Scrollbar
+- Window Icon
 
-
-
-
-
+## Menu Options 
 Under the Royal Enfield Menu:
 - ‘Kickstart’ starts a new project from scratch
 - ‘Rev Up’ opens a new window to work on another project
@@ -28,7 +29,8 @@ Under the Bullet Menu:
 The Edit Menu in Royal Editor currently only works in Windows devices. This includes the following commands:
 We are working on adding support for the Edit Menu in other operating systems.
 
-Key to Menu Bar
+## Key to Menu Bar
+
 Royal Enfield Menu --> File menu
 Rev Up = Open file
 Kickstart = Open New file
@@ -42,13 +44,6 @@ Paste Bullets = Paste Text
 Select All Bullets = Select All
 Delete Bullet = Delete Last Character
 
-───────╔╗──╔╦═══╗──────╔╗─────╔╗
-───────║╚╗╔╝║╔═╗║─────╔╝╚╗───╔╝╚╗
-╔══╦═╗─╚╗║║╔╣╚═╝║╔╦═╗╔╬╗╔╬╦══╬╗╔╬╦╗╔╦══╗
-║╔╗║╔╗╗─║╚╝║║╔╗╔╝╠╣╔╗╬╣║║╠╣╔╗║║║╠╣╚╝║║═╣
-║╔╗║║║║─╚╗╔╝║║║╚╗║║║║║║║╚╣║╔╗║║╚╣╠╗╔╣║═╣
-╚╝╚╩╝╚╝──╚╝─╚╝╚═╝╚╩╝╚╩╝╚═╩╩╝╚╝╚═╩╝╚╝╚══╝
 
-Developer's Telegram Id: @vijayragav71
-
-𝓪𝓷 𝓥𝓡 𝓲𝓷𝓲𝓽𝓲𝓪𝓽𝓲𝓿𝓮
+My Telegram Id: @vijayragav71
+  𝓪𝓷 𝓥𝓡 𝓲𝓷𝓲𝓽𝓲𝓪𝓽𝓲𝓿𝓮
