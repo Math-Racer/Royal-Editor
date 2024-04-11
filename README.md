@@ -2,7 +2,10 @@
 This is a beginner-level programming project that involves building a GUI-based text editor using Python's tkinter module. The text editor is capable of editing .txt files. This text editor is a tribute to the history of Royal Enfield, an Indian brand that has become the largest manufacturer of motorcycles, beating Harley-Davidson.
 
 # Setup
-Download the repository as zip file and unzip it in your desired location. Navigate to that folder and double click on "Royal Editor.exe" to run it. 
+To install the necessary dependencies for Royal Text Editor, run the following command in your command prompt: pip install pillow os. To launch the Royal Text Editor, simply run the royal_text_editor.py file using Python. The main window of the application will appear, allowing you to create or open a text file and start editing.
+
+# Link to executable file
+
 
 # Features
 - About Menu
