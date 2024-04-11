@@ -5,7 +5,8 @@ This is a beginner-level programming project that involves building a GUI-based 
 To install the necessary dependencies for Royal Text Editor, run the following command in your command prompt: pip install pillow os. To launch the Royal Text Editor, simply run the royal_text_editor.py file using Python. The main window of the application will appear, allowing you to create or open a text file and start editing.
 
 # Link to executable file
-
+https://drive.google.com/drive/folders/18vz1eBPLyiYkS2GdvmsShrOxrSDJQeE3?usp=sharing
+Download this folder to your local directory and double click "Royal Editor.exe". 
 
 # Features
 - About Menu
